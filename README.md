@@ -6,4 +6,4 @@ We applied machine learning models, including Naïve Bayes and K-Nearest Neighbo
 The models were assessed using confusion matrix, ROC curve, cumulative response, and lift curve to ensure accurate and reliable predictions for early detection.
 
 ## Positive class (1) → Benign (Non-cancerous)
-## Negative class (0) → Malignant (Cancerous)in.
+## Negative class (0) → Malignant (Cancerous).
